@@ -1,6 +1,6 @@
 ﻿<a name="br1"></a> 
 
-#Introduction
+**# Introduction**
 
 The impact of the Covid-19 pandemic has been unprecedented, aﬀecting economies and societies worldwide. With the onset of the pandemic, the world saw a surge in job losses,
 and businesses had to pivot to stay aﬂoat. As a data enthusiast, I wanted to explore this phenomenon further and create a tool which could be used by end users to see if there
