@@ -1,25 +1,10 @@
 ﻿<a name="br1"></a> 
 
-STA 220
+#Introduction
 
-**FINAL PROJECT REPORT**
-
-Presented by Sasha Neil Pimento
-
-**Introduction**
-
-The impact of the Covid-19 pandemic has been unprecedented, aﬀecting economies and
-
-societies worldwide. With the onset of the pandemic, the world saw a surge in job losses,
-
-and businesses had to pivot to stay aﬂoat. As a data enthusiast, I wanted to explore this
-
-phenomenon further and create a tool which could be used by end users to see if there
-
-was a correlation between the Covid-19 outbreak and the layoﬀ data. To that end, I created
-
-a dashboard using Jupyter Dash, which presents visualizations of both the Covid data and
-
+The impact of the Covid-19 pandemic has been unprecedented, aﬀecting economies and societies worldwide. With the onset of the pandemic, the world saw a surge in job losses,
+and businesses had to pivot to stay aﬂoat. As a data enthusiast, I wanted to explore this phenomenon further and create a tool which could be used by end users to see if there
+was a correlation between the Covid-19 outbreak and the layoﬀ data. To that end, I created a dashboard using Jupyter Dash, which presents visualizations of both the Covid data and
 Layoﬀ data, and also combines them to show trends.
 
 The dashboard consists of three tabs, each displaying visualizations for a speciﬁc analysis.
